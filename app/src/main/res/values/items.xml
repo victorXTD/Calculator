@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>length</item>
+        <item>weight</item>
+        <item>time</item>
+        <item>temperature</item>
+        <item>speed</item>
+    </string-array>
+
+
+    <string-array name="length">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>t</item>
+        <item>kg</item>
+        <item>g</item>
+        <item>mg</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="speed">
+        <item>m/s</item>
+        <item>m/h</item>
+        <item>km/h</item>
+    </string-array>
+
+</resources>

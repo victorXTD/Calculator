@@ -30,7 +30,7 @@ public class UnitConverter extends AppCompatActivity {
     Spinner to;
 
     ArrayAdapter<String> typeAdapter = null;
-    ArrayAdapter<String> unitAdapter = null;
+    ArrayAdapter<String> unitAdapter = null; //布局
     static int typePosition = 0;
 
     private String[] typeS = new String[]{"length", "weight", "time", "temperature", "speed"};
